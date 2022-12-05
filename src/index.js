@@ -1,3 +1,5 @@
+//This file is how React actually renders our App.js file. You can ignore it.
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
